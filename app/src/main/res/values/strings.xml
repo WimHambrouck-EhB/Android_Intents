@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">Intents</string>
     <string name="starting_an_activity">Starting an activity:</string>
-    <string name="intent_within_own_app">Intent within own app</string>
+    <string name="start_second_activity">Start second activity</string>
     <string name="starting_another_app">Starting another app:</string>
     <string name="implicit_intent">Implicit intent (system chooses app)</string>
     <string name="explicit_intent">Explicit intent (dev chooses app)</string>
+    <string name="google_maps_not_installed">Google maps is not installed!</string>
+    <string name="type_in_some_text">Type in some text</string>
+    <string name="intent_within_own_app">Intent within own app</string>
+    <string name="star_rating">This app has a %d star rating</string>
+    <string name="invalid_input">Please enter some text</string>
 </resources>
