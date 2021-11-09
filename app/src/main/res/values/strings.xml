@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="starting_an_activity">Starting an activity:</string>
+    <string name="intent_within_own_app">Intent within own app</string>
+    <string name="starting_another_app">Starting another app:</string>
+    <string name="implicit_intent">Implicit intent (system chooses app)</string>
+    <string name="explicit_intent">Explicit intent (dev chooses app)</string>
+</resources>
